@@ -14,7 +14,7 @@
 - 👯 I’m looking to collaborate on **OpenSource Projects**
 - 🌱 I’m currently learning Data Structures and MERN Stack.
 - 💬 Ask me about anything, I am happy to help;
-- 👨‍💻 Check my projects **[Akhil](https://github.com/Akhilg-02)**
+- 👨‍💻 Check my projects **[Akhil](https://github.com/Akhilg-02?tab=repositories)**
 - 📫 How to reach me **guptaakhil0206@gmail.com**
  
 # Tools & Technology <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50">
