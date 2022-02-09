@@ -16,6 +16,19 @@
 - 💬 Ask me about anything, I am happy to help;
 - 👨‍💻 Check my projects **[Akhil](https://github.com/Akhilg-02?tab=repositories)**
 - 📫 How to reach me **guptaakhil0206@gmail.com**
+
+
+## Connect with me: <img src="https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif" width=80px/>
+
+<p align="left">
+
+<a href = "https://www.linkedin.com/in/akhil-gupta1997/" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" width=30px /></a>
+
+ <a href="https://github.com/Akhilg-02" target="_blank"><img src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/github.svg" width=30px margin-left=40px/></a>
+
+</p>
+
+
  
 # Tools & Technology <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50">
 
@@ -69,16 +82,7 @@
 <br/>
 <a href="https://github.com/Akhilg-02/github-readme-activity-graph"><img alt="Akhil Gupta's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Akhilg-02&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
 
-## Connect with me: <img src="https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif" width=80px/>
 
-
-<p align="left">
-
-<a href = "https://www.linkedin.com/in/akhil-gupta1997/" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" width=30px /></a>
-
- <a href="https://github.com/Akhilg-02" target="_blank"><img src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/github.svg" width=30px margin-left=40px/></a>
-
-</p>
 
 
 ## ❤ Views and Followers
