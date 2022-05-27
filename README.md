@@ -80,7 +80,7 @@
     </a>
 </p>
 <br/>
-<!-- <a href="https://github.com/Akhilg-02/github-readme-activity-graph"><img alt="Akhil Gupta's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Akhilg-02&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true&theme=rogue" /></a> -->
+<!-- <a href="https://github.com/Akhilg-02/github-readme-activity-graph"><img alt="Akhil Gupta's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Akhilg-02&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true&theme=rogue"  Meghna-DAS /></a> -->
 
 <a href="https://github.com/Akhilg-02/github-readme-activity-graph"><img alt="Akhil Gupta's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Akhilg-02&theme=rogue" /></a>
 
@@ -88,7 +88,7 @@
 
 
 ## ❤ Views and Followers
-<a href="https://github.com/Meghna-DAS/github-profile-views-counter">
+<a href="https://github.com/Akhilg-02/github-profile-views-counter">
     <img src="https://komarev.com/ghpvc/?username=Akhilg-02">
 </a>
 <a href="https://github.com/Akhilg-02?tab=followers"><img src="https://img.shields.io/github/followers/Akhilg-02?label=Followers&style=social" alt="GitHub Badge"></a>
