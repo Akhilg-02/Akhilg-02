@@ -10,23 +10,26 @@
 
 #### I’m a full-stack web developer and creative coder who specializes in MERN stack development. A passionate learner who's always willing to learn and work across technologies and domains 💡. I love to explore new technologies and leverage them to solve real-life problems.
 
- 
+- 🔭 I’m currently working as the **ReactJs Developer**
 - 👯 I’m looking to collaborate on **OpenSource Projects**
-- 🌱 I’m currently learning Data Structures and MERN Stack.
+- 🌱 I’m currently learning Data Structures and Angular.
 - 💬 Ask me about anything, I am happy to help;
 - 👨‍💻 Check my projects **[Akhil](https://github.com/Akhilg-02?tab=repositories)**
 - 📫 How to reach me **guptaakhil0206@gmail.com**
 
 
-## Connect with me: <img src="https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif" width=80px/>
+# Connect with me: <img src="https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif" width="100"/>
 
-<p align="left">
+<div align="left">
+  <a href="https://www.linkedin.com/in/akhil-gupta1997/" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" width="30px"/>
+  </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://github.com/Akhilg-02" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/github.svg" width="30px"/>
+  </a>
+</div>
 
-<a href = "https://www.linkedin.com/in/akhil-gupta1997/" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" width=30px /></a>
-
- <a href="https://github.com/Akhilg-02" target="_blank"><img src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/github.svg" width=30px margin-left=40px/></a>
-
-</p>
 
 
  
@@ -63,7 +66,7 @@
 <br />
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=Akhilg-02&show_icons=true&theme=radical" width=47%>
-
+&nbsp;&nbsp;
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Akhilg-02&layout=compact"  width=40% margin-left=50%>
 </p>
 <br/>
@@ -82,8 +85,8 @@
 <br/>
 <!-- <a href="https://github.com/Akhilg-02/github-readme-activity-graph"><img alt="Akhil Gupta's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Akhilg-02&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true&theme=rogue"  Meghna-DAS /></a> -->
 
-<a href="https://github.com/Akhilg-02/github-readme-activity-graph"><img alt="Akhil Gupta's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Akhilg-02&theme=rogue" /></a>
 
+[![Akhil Gupta's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Akhilg-02&theme=github-compact)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 
 
