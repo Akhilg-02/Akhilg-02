@@ -8,7 +8,7 @@
    </h2> 
 
 
-#### I’m a full-stack web developer and creative coder who specializes in MERN stack development. A passionate learner who's always willing to learn and work across technologies and domains 💡. I love to explore new technologies and leverage them to solve real-life problems.
+#### A full-stack web developer and creative coder specializing in MERN stack development. A passionate learner who is always eager to explore and work across various technologies and domains 💡. Driven by a love for discovering new technologies and leveraging them to solve real-life problems effectively
 
 - 🔭 I’m currently working as the **ReactJs Developer**
 - 👯 I’m looking to collaborate on **OpenSource Projects**
