@@ -10,9 +10,9 @@
 
 #### A full-stack web developer and creative coder specializing in MERN stack development. A passionate learner who is always eager to explore and work across various technologies and domains 💡. Driven by a love for discovering new technologies and leveraging them to solve real-life problems effectively
 
-- 🔭 I’m currently working as the **ReactJs Developer**
-- 👯 I’m looking to collaborate on **OpenSource Projects**
-- 🌱 I’m currently learning Data Structures and Angular.
+- 🔭 Worked as the **ReactJs Developer**
+- 👯 Actively looking to collaborate on **OpenSource Projects**
+- 🌱 Keen interest in learning Data Structures and Angular.
 - 💬 Ask me about anything, I am happy to help;
 - 👨‍💻 Check my projects **[Akhil](https://github.com/Akhilg-02?tab=repositories)**
 - 📫 How to reach me **guptaakhil0206@gmail.com**
